@@ -1,0 +1,81 @@
+{
+  "listings": [
+    {
+      "id": "1",
+      "title": "Spacious Loft with City Views",
+      "unit_type": "Loft",
+      "district": "The Narrows",
+      "overview": "This spacious loft in The Narrows offers stunning views of the cityscape. Perfect for those who love urban living with easy access to local amenities.",
+      "rent": "2500",
+      "owner": {
+        "name": "Bruce Wayne",
+        "email": "bruce.wayne@wayneenterprises.com",
+        "phone": "555-0197"
+      }
+    },
+    {
+      "id": "2",
+      "title": "Modern Apartment in Tricorner",
+      "district": "Tricorner",
+      "overview": "A sleek, modern apartment located in the heart of Tricorner. Enjoy contemporary living with close proximity to vibrant nightlife and dining options.",
+      "rent": 2200,
+      "owner": {
+        "name": "Selina Kyle",
+        "email": "selina.kyle@catmail.com",
+        "phone": "555-0234"
+      }
+    },
+    {
+      "id": "3",
+      "title": "Charming Studio in Old Gotham",
+      "overview": "Cozy studio apartment located in historic Old Gotham. Ideal for those seeking a quieter environment with rich history and character.",
+      "unit_type": "Studio",
+      "district": "Old Gotham",
+      "rent": 1800,
+      "owner": {
+        "name": "Harvey Dent",
+        "email": "harvey.dent@gothamlaw.com",
+        "phone": "555-0456"
+      }
+    },
+    {
+      "id": "4",
+      "title": "Luxury Condo in Arkham District",
+      "overview": "Experience luxury living in this high-end condo located in the Arkham District. Close to parks and cultural landmarks.",
+      "unit_type": "2 Bedrooms",
+      "district": "Arkham District",
+      "rent": 3500,
+      "owner": {
+        "name": "Jonathan Crane",
+        "email": "jonathan.crane@arkhamasylum.com",
+        "phone": "555-0789"
+      }
+    },
+    {
+      "id": "5",
+      "title": "Elegant Brownstone in Upper West Side",
+      "overview": "Elegant brownstone with classic architecture, situated in the prestigious Upper West Side. Ideal for families or professionals.",
+      "unit_type": "3 Bedrooms",
+      "district": "Upper West Side",
+      "rent": 4000,
+      "owner": {
+        "name": "Oswald Cobblepot",
+        "email": "oswald.cobblepot@iceberglounge.com",
+        "phone": "555-0912"
+      }
+    },
+    {
+      "id": "6",
+      "title": "Stylish Flat in Gotham City Chinatown",
+      "overview": "A stylish flat located in the vibrant Gotham City Chinatown. Enjoy cultural richness and diverse culinary experiences right at your doorstep.",
+      "unit_type": "2 Bedrooms",
+      "district": "Gotham City Chinatown",
+      "rent": 2300,
+      "owner": {
+        "name": "Edward Nygma",
+        "email": "edward.nygma@riddlemethis.com",
+        "phone": "555-1001"
+      }
+    }
+  ]
+}
